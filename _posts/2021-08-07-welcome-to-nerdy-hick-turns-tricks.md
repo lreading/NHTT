@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "Welcome to Nerdy Hick Turns Tricks"
 author: nerdyhick
 image: assets/images/11.jpg
 description: "Why am I doing this?."
