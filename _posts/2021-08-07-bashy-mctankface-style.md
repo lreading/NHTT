@@ -11,6 +11,7 @@ featured: true
 Bashy McTankface started as a PvP tank, thus it's only appropriate to look ridiculous at all times
 
 {:.table .table-striped}
+| Class | Necromancer |
 | Race | Reguard |
 | Personality | Jester |
 | Costume | Sand-Kissed Salwar Ensemble |

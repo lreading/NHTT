@@ -11,6 +11,7 @@ featured: true
 The Nakey Tank is everything you'd want in a proper style for a tank.  Here are a few of the highlights:
 
 {:.table .table-striped}
+| Class | Dragonknight |
 | Race | Nord |
 | Personality | Duchess |
 | Costume | Nordic Bather's Towel |
